@@ -1,6 +1,6 @@
 # Fdf
 
-Fdf is a program that helps you draw 3D maps.
+Fdf is a program that helps you draw 3D maps from a text file containing height for each point.
 
 The projection is orthogonal, which is to say line do not converge with distance.
 
